@@ -45,6 +45,7 @@
     <Compile Include="Connection.cs" />
     <Compile Include="daPersona.cs" />
     <Compile Include="dbAlumnos.cs" />
+    <Compile Include="dbAutomivil.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
